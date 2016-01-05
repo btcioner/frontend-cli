@@ -11,3 +11,7 @@ make by yeoman
 4.bower install
 
 5.gulp serve
+
+# Testing
+
+1.gulp test
