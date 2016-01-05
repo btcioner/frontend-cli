@@ -15,3 +15,7 @@ make by yeoman
 # Testing
 
 1.gulp test
+
+# Build
+
+1.gulp build
