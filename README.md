@@ -2,7 +2,7 @@
 
 make by yeoman
 
-1.this is a angular and typesript project
+1.this is a angular and typescript project
 
 2.npm install
 
